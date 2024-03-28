@@ -1,0 +1,25 @@
+.help-title {
+    color: #fff;
+    letter-spacing: 5.28px;
+    align-self: start;
+    margin: 71px 0 0 33px;
+    font: 800 24px "Open Sans", sans-serif;
+    margin-left: 60px;
+  }
+
+  .help-description {
+    border-radius: 15px;
+    background-color: #0f491b;
+    margin-top: 22px;
+    width: 337px;
+    max-width: 100%;
+    letter-spacing: 4.4px;
+    padding: 14px 9px 67px;
+    font: 700 20px "Oxygen", sans-serif;
+    margin-left: 40px;
+  }
+
+  .help{
+    margin-top: 81px;
+  }
+

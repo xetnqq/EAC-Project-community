@@ -14,11 +14,9 @@ export class Signup extends Component {
             </div>
         </div>
         <div className="profile-section">
-          <div className="profile-info">
             <div className="name-section">
               <input className='input-name' type="name" placeholder="Name"/>
             </div>
-          </div>
           <div className="email-section">
             <input className='input-email'  type="email" placeholder="Email"/>
           </div>

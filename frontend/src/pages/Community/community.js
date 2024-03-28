@@ -25,12 +25,12 @@ export class Community extends Component {
       </div>
       
       <div className="profile-2">
-        <img src="https://cdn.builder.io/api/v1/image/assets/TEMP/c8c47dbd7bdfaf326b2ff276f7e39141b26b2f590a737aa5fbec25de138ae0f0?apiKey=2d7949b51e034cf2aa5c87b52f192149&" alt="Чухан's avatar" class="avatar" />
+        <img src="https://cdn.builder.io/api/v1/image/assets/TEMP/c8c47dbd7bdfaf326b2ff276f7e39141b26b2f590a737aa5fbec25de138ae0f0?apiKey=2d7949b51e034cf2aa5c87b52f192149&" alt="Чухан's avatar" className="avatar" />
         <div className="profile-info">
           <h2 className="profile-name">Чуркан</h2>
           <div className="profile-divider"></div>
           <div className="profile-emissions">
-            <img src="https://cdn.builder.io/api/v1/image/assets/TEMP/d4d372e612f5af9371a98d956c24b2c3e235fc586ba1e6beb440a2f257326d37?apiKey=2d7949b51e034cf2aa5c87b52f192149&" alt="" class="icon" />
+            <img src="https://cdn.builder.io/api/v1/image/assets/TEMP/d4d372e612f5af9371a98d956c24b2c3e235fc586ba1e6beb440a2f257326d37?apiKey=2d7949b51e034cf2aa5c87b52f192149&" alt=""  className="avatar" />
             <p className="profile-emissions-text">
               Чуркан's average emissions are reduced by <span className='percents'>36%</span>
             </p>
@@ -39,12 +39,12 @@ export class Community extends Component {
       </div>
 
       <div className="profile-3">
-        <img src="https://cdn.builder.io/api/v1/image/assets/TEMP/c8c47dbd7bdfaf326b2ff276f7e39141b26b2f590a737aa5fbec25de138ae0f0?apiKey=2d7949b51e034cf2aa5c87b52f192149&" alt="Чухан's avatar" class="avatar" />
+        <img src="https://cdn.builder.io/api/v1/image/assets/TEMP/c8c47dbd7bdfaf326b2ff276f7e39141b26b2f590a737aa5fbec25de138ae0f0?apiKey=2d7949b51e034cf2aa5c87b52f192149&" alt="Чухан's avatar" className="avatar" />
         <div className="profile-info">
           <h2 className="profile-name">Chyrka</h2>
           <div className="profile-divider"></div>
           <div className="profile-emissions-3">
-            <img src="./img/ic_outline-close.png" alt="" class="icon" />
+            <img src="./img/ic_outline-close.png" alt="" className="icon" />
             <p className="profile-emissions-text">
             Chyrka have not been active this day
             </p>

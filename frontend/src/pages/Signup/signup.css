@@ -49,10 +49,11 @@
     height: 300px;
   }
 
-  .profile-info {
+  .name-section{
     background-color: #093211;
     display: flex;
     height: 70px;
+    margin-top: 15px;
     border-radius: 10px;
   }
 
