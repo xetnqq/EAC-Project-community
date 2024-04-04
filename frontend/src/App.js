@@ -9,6 +9,7 @@ import Activity from './pages/Activity/activity';
 import Settings from './pages/Settings/settings';
 import Community from "./pages/Community/community";
 import Help from "./pages/Help/help";
+
 /*
 import React, {useState, useEffect} from 'react'
 
